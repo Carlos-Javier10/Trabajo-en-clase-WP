@@ -1,8 +1,9 @@
 <?php get_header(); ?> 
 <main>
     <div class="w-1/12">
-        <img src="<?php echo get_template_directory_uri() ?>/assert/img/1.jpg" 
-        alt="imagen de perfil del tema">
+        <img src="<?php echo get_template_directory_uri() ?>/assets/img/1.jpg" 
+        alt="imagen de perfil del tema"
+        width="190" height="190">
     </div>
     <div class="w-6/12">
         <p>
