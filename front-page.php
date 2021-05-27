@@ -30,7 +30,31 @@ Presentacion
     implementacion de nuevas secciones al programa. Ademas de eso tambien trabajamos con la base de datos haciendo unas pequeñas modificaciones <br>
     con todo eso usamos ambos lenguajes de programacion.
     </p>
-    </div>
+    </div><br><br>
+    <div>
+    <p>
+    <img style="border-radius: 20px;" 
+        src="<?php echo get_template_directory_uri() ?>/assets/img/java.jpg" 
+        alt="imagen de perfil del tema"
+        width="190" height="190"
+        align="right"><br><br>
+
+    Utilizo este lenguaje de progrmacion ya que este fue el primero que aprendi aparte que tiene diversas funciones para realizar los proyectos. En la maroria de los trabajos <br>
+    siempre se usaba ademas de que ya he visto programas con este lenguaje <br>
+    </p>
+    </div><br><br>
+    <div>
+    <p>
+    <img style="border-radius: 20px;" 
+        src="<?php echo get_template_directory_uri() ?>/assets/img/php.jpg" 
+        alt="imagen de perfil del tema"
+        width="190" height="190"
+        align="left"><br><br>
+
+    El php fue mas facil en la implementacion de la web con xampp ya que sus conexiones son mas sencillas con la base de datos, aparte que se puede jugar con html <br>
+    y javascrip para darle mas diseños, estilos, entre otras cosas mas para pogramar la pagina web <br>
+    </p>
+    </div><br><br>
 </main>
 </body>
 <?php get_footer(); ?> 
